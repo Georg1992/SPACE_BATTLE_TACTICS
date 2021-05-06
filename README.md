@@ -1,3 +1,4 @@
 # SPACE_BATTLE_TACTICS
-Space Game designed with Unity engine.
+My first game prototype designed with Unity engine.
+PLAY WITH THE LINK:
 http://users.metropolia.fi/~georgv/Build%201.0/
